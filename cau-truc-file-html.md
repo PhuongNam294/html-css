@@ -5,8 +5,8 @@
 - ==<p>== chứa các đoạn văn bản
 - ==<br/>== or <br> thẻ ngắt dòng (thẻ tự đóng)
 - ==<hr />== tạo đường kẻ ngang ngăn cách trên trang (thẻ tự đóng)
-- ==<b>== in đậm và thẻ <strong> (có ngữ nghĩa và quan trọng cho trình duyệt biết)
-- ==<i>== in nghiêng <em> (có ngữ nghĩa và quan trọng cho trình duyệt biết)
+- ==<b>== in đậm và thẻ ==<strong>== (có ngữ nghĩa và quan trọng cho trình duyệt biết)
+- ==<i>== in nghiêng ==<em>== (có ngữ nghĩa và quan trọng cho trình duyệt biết)
 - ==<u>== gạch chân
 - ==<ul>== danh sách không có thứ tự
 - ==<ol>== danh sách có thứ tự và có nhiều thuộc tính như type = A, a, i, 1
